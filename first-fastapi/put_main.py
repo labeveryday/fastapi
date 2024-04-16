@@ -36,4 +36,5 @@ def update_item(item_id: int, item: Item):
     "is_offer": true \
     }'
     """
+    item.
     return {"item_name": item.name, "item_id": item_id}
